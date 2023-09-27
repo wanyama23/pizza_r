@@ -1,6 +1,5 @@
 alembic
 aniso8601
-apturl
 blinker
 click
 Faker
