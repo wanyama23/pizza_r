@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useHistory } from "react-router";
 
 function RestaurantPizzasForm() {
-  const [heroes, setHeroes] = useState([]);
+  const [restaurant, setRestaurant] = useState([]);
   const [pizza, setPizza] = useState([]);
   const [restaurantsId, setRestaurantId] = useState("");
   const [pizzaId, setPizzaId] = useState("");
