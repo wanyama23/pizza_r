@@ -13,13 +13,13 @@ function RestaurantPizzasForm() {
   useEffect(() => {
     fetch("/Restaurants")
       .then((r) => r.json())
-      .then(setRestaurants);
+      .then(setRestaurantId);
   }, []);
 
   useEffect(() => {
     fetch("/Pizzas")
       .then((r) => r.json())
-      .then(setPizzas);
+      .then(setPizza);
   }, []);
 
   function handleSubmit(e) {
