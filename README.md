@@ -21,7 +21,7 @@ Installation
 
     Clone the repository to your local machine:
 
-git clone https://github.com/wanyama23/Pizza_Restaurant
+git clone https://github.com/wanyama23/pizza_r
 
     Navigate to the project directory:
 
@@ -44,7 +44,7 @@ Technologies Used
 The following have been used on this project:
 
 Python3.10.12
-Link to the project online repository https://github.com/wanyama23/Pizza_Restaurant
+Link to the project online repository https://github.com/wanyama23/pizza_r
 Support and contact details 🙂
 
 To make a contribution to the code used or any suggestions you can click on the contact link and email us your suggestions.
